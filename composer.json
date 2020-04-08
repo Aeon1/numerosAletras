@@ -8,7 +8,7 @@
       "email": "joel.r@live.com.mx",
     }
   ],
-  "require": {
+  "require-dev": {
     "php": "^5.3.3 || ^7.0"
   },
   "autoload": {
