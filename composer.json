@@ -1,0 +1,19 @@
+{
+  "name": "aeon/numeros-a-letras",
+  "description": "Convierte cualquier número en letras con el valor correspondiente.",
+  "license" : "MIT",
+  "authors" : [
+    {
+      "name": "Joel rivera",
+      "email": "joel.r@live.com.mx",
+    }
+  ],
+  "require": {
+    "php": "^5.3.3 || ^7.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "NumerosEnLetras": "src/"
+    }
+  }
+}
