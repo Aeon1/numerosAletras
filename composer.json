@@ -8,6 +8,10 @@
       "email": "joel.r@live.com.mx",
     }
   ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.6"
+  },
   "require-dev": {
     "php": "^5.3.3 || ^7.0"
   },
